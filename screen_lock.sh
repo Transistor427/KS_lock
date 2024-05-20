@@ -1,5 +1,7 @@
 #!/bin/bash
 
+HOME="/home/rock"
+repo="KS_lock"
+
 export DISPLAY=:0
-# export DISPLAY=:10
-sudo feh ./lock.JPG
+sudo feh $HOME/$repo/lock.JPG
