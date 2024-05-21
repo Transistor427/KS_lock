@@ -40,4 +40,3 @@ sudo nano /etc/udev/rules.d/80-usb.rules
 Ctrl+S
 Ctrl+X
 ```
->>>>>>> 12097ac159465572e257dd7abacbd3c5970be29a
