@@ -1,12 +1,4 @@
 # KS_lock
-<<<<<<< HEAD
-Software for blocking access by key.
-
-Для полноценной работы в KlipperScreen'е в файле sceen.py нужно добавить строчку:
-os.system("sudo systemctl restart screen_lock.service")
-в самый конец так как на фото:
-![alt text](image.png)
-=======
 Программное обеспечение для органичение доступа с помощью USB-ключа доступа.
 
 ![lock-usb_dark_800x400](https://github.com/Transistor427/KS_lock/assets/47721986/9bcf4967-dabc-4db0-aa6f-c628bd3e4d17)
