@@ -1,5 +1,6 @@
 # KS_lock
-Software for blocking access by key.
+Программное обеспечение для органичение доступа с помощью USB-ключа доступа.
+
 ![lock-usb_dark_800x400](https://github.com/Transistor427/KS_lock/assets/47721986/9bcf4967-dabc-4db0-aa6f-c628bd3e4d17)
 
 
@@ -25,6 +26,7 @@ sudo reboot
 lsusb
 ```
 Находим в списке флешку и копируем Vendor ID:
+
 ![изображение](https://github.com/Transistor427/KS_lock/assets/47721986/c8ed4bc6-f735-4529-aac4-5db55e29d321)
 
 Открываем файл правил udev командой:
